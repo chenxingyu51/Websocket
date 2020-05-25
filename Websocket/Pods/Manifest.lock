@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - Masonry
+  - SocketRocket
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SocketRocket
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 628eb1573b19ca747a98e9a3d62748b7fa04bda6
+
+COCOAPODS: 1.8.4
