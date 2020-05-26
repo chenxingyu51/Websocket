@@ -104,6 +104,10 @@
 //    [self.tableview reloadData];
 }
 
+- (void)devfunction {
+    NSLog(@"devfunction");
+}
+
 - (NSMutableArray *)arrays {
     if (!_arrays){
         _arrays = [[NSMutableArray alloc]init];
